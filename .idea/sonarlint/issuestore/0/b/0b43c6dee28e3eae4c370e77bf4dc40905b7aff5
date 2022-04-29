@@ -1,0 +1,9 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(®äûÕ
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÁÚŠV
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ü§±°ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã©
+I
+java:S1068".Remove this unused "producator" private field.(¾É£±ÿÿÿÿÿ
+D
+java:S1068")Remove this unused "model" private field.(³—öûÿÿÿÿ
