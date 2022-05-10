@@ -12,5 +12,7 @@ public class Main {
         AdapterValidatorObiecte adaptorObiecte = new AdapterValidatorObiecte(metrou);
         adaptorObiecte.validateBilet();
         adaptorObiecte.validareAbonament();
+        autobuz.validareAbonament();
+        autobuz.validateBilet();
     }
 }
